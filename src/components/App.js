@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
-          Learn React
+          Learn React today
     </div>
   );
 }
